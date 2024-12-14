@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGameView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:RunnerGameView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGameView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:RunnerGameView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGameDoc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:RunnerGameDoc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:RunnerGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Nutlenh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:Nutlenh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Hcn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:Hcn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Duongchay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:Duongchay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGameDoc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:RunnerGameDoc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:RunnerGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Nutlenh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB57107-9453-4DFC-94BA-3CF1031A6858}|RunnerGame.vcxproj|solutionrelative:Nutlenh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RunnerGameView.h",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGameView.h",
+              "RelativeDocumentMoniker": "RunnerGameView.h",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGameView.h",
+              "RelativeToolTip": "RunnerGameView.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T11:30:07.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RunnerGame.h",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGame.h",
+              "RelativeDocumentMoniker": "RunnerGame.h",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGame.h",
+              "RelativeToolTip": "RunnerGame.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T11:26:15.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RunnerGameView.cpp",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGameView.cpp",
+              "RelativeDocumentMoniker": "RunnerGameView.cpp",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGameView.cpp",
+              "RelativeToolTip": "RunnerGameView.cpp",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAswJwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T11:27:25.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resource.h",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Resource.h",
+              "RelativeDocumentMoniker": "Resource.h",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Resource.h",
+              "RelativeToolTip": "Resource.h",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T11:28:27.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RunnerGameDoc.h",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGameDoc.h",
+              "RelativeDocumentMoniker": "RunnerGameDoc.h",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGameDoc.h",
+              "RelativeToolTip": "RunnerGameDoc.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T11:26:24.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T11:25:20.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nutlenh.h",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Nutlenh.h",
+              "RelativeDocumentMoniker": "Nutlenh.h",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Nutlenh.h",
+              "RelativeToolTip": "Nutlenh.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T11:25:05.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hcn.h",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Hcn.h",
+              "RelativeDocumentMoniker": "Hcn.h",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Hcn.h",
+              "RelativeToolTip": "Hcn.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T11:24:39.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T11:24:57.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "framework.h",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\framework.h",
+              "RelativeDocumentMoniker": "framework.h",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\framework.h",
+              "RelativeToolTip": "framework.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T11:29:20.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Duongchay.h",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Duongchay.h",
+              "RelativeDocumentMoniker": "Duongchay.h",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Duongchay.h",
+              "RelativeToolTip": "Duongchay.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T11:24:49.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RunnerGameDoc.cpp",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGameDoc.cpp",
+              "RelativeDocumentMoniker": "RunnerGameDoc.cpp",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGameDoc.cpp",
+              "RelativeToolTip": "RunnerGameDoc.cpp",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T11:27:20.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RunnerGame.cpp",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGame.cpp",
+              "RelativeDocumentMoniker": "RunnerGame.cpp",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\RunnerGame.cpp",
+              "RelativeToolTip": "RunnerGame.cpp",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAwwNYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T11:27:14.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Nutlenh.cpp",
+              "DocumentMoniker": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Nutlenh.cpp",
+              "RelativeDocumentMoniker": "Nutlenh.cpp",
+              "ToolTip": "D:\\23103031\\Code\\lap trinh huong doi tuong\\Game Kh\u1EE7ng Long\\RunnerGame\\Nutlenh.cpp",
+              "RelativeToolTip": "Nutlenh.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T11:26:57.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
